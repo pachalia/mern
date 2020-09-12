@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "pachalia andrey hacker",
+  "mongoUri": "mongodb+srv://pach:uhfyflf21@cluster0.yybxg.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
